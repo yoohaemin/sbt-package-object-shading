@@ -2,6 +2,6 @@
 
 package object example {
 
-  def foo = "fooo"
+  def foo = "I am gonna shade blah"
 
 }
